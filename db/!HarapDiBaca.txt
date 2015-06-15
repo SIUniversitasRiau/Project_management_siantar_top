@@ -1,6 +1,0 @@
-1. sql 260115 adalah dump sql awal
-2. project_management.sql adalah dump sql terakhir. Bila ada update data atau tabel, langsung tumpukin di sini
-
-
-file pada directory tambahan adalah dump tabel-tabel yang berubah atau bertambah. biar bila ada data yang telah terisi, mudah untuk di-running.
-Perubahan dilihat dari sql 260115.sql yang awal.
